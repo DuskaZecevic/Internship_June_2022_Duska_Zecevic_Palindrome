@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Palindrome.Business_Logic
+﻿namespace Palindrome.Business_Logic
 {
     public class PalindromeLogic
     {
